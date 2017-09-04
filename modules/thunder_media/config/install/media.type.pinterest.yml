@@ -15,10 +15,10 @@ third_party_settings:
 id: pinterest
 label: Pinterest
 description: ''
-type: pinterest
+source: pinterest
 queue_thumbnail_downloads: false
 new_revision: false
-type_configuration:
+source_configuration:
   use_pinterest_api: false
   source_field: field_url
 field_map: {  }
